@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{19b8b7cc-06df-4cde-9a0a-a964d875469f}</ProjectGuid>
+    <ProjectGuid>{e410116f-00e0-4c60-9c18-554ac9d6e53d}</ProjectGuid>
     <RootNamespace>LLMChat</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
